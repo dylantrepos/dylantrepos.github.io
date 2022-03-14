@@ -11,14 +11,15 @@ body {
 }
 
 .presentation {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .picture {
-    width: 2em;
-    height: 2em;
+    width: 7em;
+    height: 7em;
     border-radius: 100%;
 }
 
